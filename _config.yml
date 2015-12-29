@@ -1,0 +1,28 @@
+name: BrainGutsCreative
+favicon: null
+layout_spectrum: 0.13609242206439376
+typography_spectrum: 0.6782295387238264
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.20053707575425506
+  lightness: 0.4921783155295998
+  saturation: 0.5192731625866145
+  rhythmicContrast: 0.7917623948305845
+purpose: []

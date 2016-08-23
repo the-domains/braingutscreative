@@ -1,4 +1,21 @@
+name: BrainGutsCreative
+favicon: null
+layout_spectrum: 0.13609242206439376
 typography_spectrum: 0.6782295387238264
+title: Data Scientist
+description: Teaching Robots to Learn
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -10,21 +27,4 @@ color:
   lightness: 0.4921783155295998
   saturation: 0.5192731625866145
   rhythmicContrast: 0.7917623948305845
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.13609242206439376
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: BrainGutsCreative
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: Data Scientist
-description: Teaching Robots to Learn
 purpose: []
